@@ -1,0 +1,6 @@
+The source tarball was generated from the upstream git repository
+by exporting the relevant release tag.
+
+Go modules were then vendored to remove the need for network
+access during build using `go mod vendor` and added to the
+orig.tar.gz

@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: docker-compose-plugin
+Source: https://github.com/docker/compose
+
+Files: *
+Copyright: 2020 Docker Compose authors
+License: Apache 2.0
+
+Files: debian/*
+Copyright: 2022 Pexip AS <packaging@pexip.com>
+License: Apache 2.0

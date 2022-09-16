@@ -1,0 +1,5 @@
+docker-compose-plugin (2.10.2-0pexip1) pexip-bullseye; urgency=medium
+
+  * Initial pexip upload.
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Fri, 16 Sep 2022 14:21:06 +0100
