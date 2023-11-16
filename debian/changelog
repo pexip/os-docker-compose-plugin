@@ -1,3 +1,9 @@
+docker-compose-plugin (2.10.2-0pexip2) pexip-bookworm; urgency=medium
+
+  * Initial bookworm build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 16 Nov 2023 09:58:10 +0000
+
 docker-compose-plugin (2.10.2-0pexip1) pexip-bullseye; urgency=medium
 
   * Initial pexip upload.
