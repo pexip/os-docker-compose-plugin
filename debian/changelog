@@ -1,3 +1,9 @@
+docker-compose-plugin (2.10.2-0+pexip25u2) pexip-trixie; urgency=medium
+
+  * Trixie build for product distribution
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 04 Dec 2025 13:31:00 +0000
+
 docker-compose-plugin (2.10.2-0+pexip25u1) pexip-trixie; urgency=medium
 
   * Initial trixie build
